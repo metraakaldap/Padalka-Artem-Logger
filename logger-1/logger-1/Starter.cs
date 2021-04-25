@@ -8,6 +8,9 @@
 
     internal class Starter
     {
-        
+        static void Run()
+        {
+
+        }
     }
 }
