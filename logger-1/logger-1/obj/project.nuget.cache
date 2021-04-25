@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fSUkh0hja5z/OsK+3dQZEjyDlSACsCZZVig5/85wr0dl/AEEjbwkXp34L422CfpWMHfFNpjxukePN2xVxeJ48w==",
+  "dgSpecHash": "mmQNU9R24w0E46zk7s+sgZzkluLwHasXLynGOfA2u2y5cF8Kes+Qx2puaggDHFmAcxy4RHaPR7gVS0kI3/xBOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\artpa\\Desktop\\logger-1\\logger-1\\logger-1\\logger-1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\artpa\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
   "logs": []
 }
